@@ -1,0 +1,55 @@
+p{
+    color: blue;
+}
+.premierParagraphe{
+color:#fff;
+background-color: blueviolet;
+border:2px solid cadetblue; ;
+text-align: center;
+}
+#logo{
+    border:3px solid chartreuse;
+    width: 300px;
+     font-family: 'Roboto Condensed', sans-serif;
+     
+}
+.border{
+border: 2px solid cadetblue;
+}
+.premierParagraphe span, 
+.premierParagraphe em{ 
+    color: rgb(0, 0, 0);
+
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.elem1 {
+font-size: 1em;
+font-weight: bold;
+}
+
+.elem2 {
+font-size: 1.3em;
+font-weight: 200;
+}
+
+.elem3 { 
+    font-size: 2em;
+    font-weight: 700;
+
+
+}
+
+.centre-element {
+text-align: center;
+
+}
+h6 {
+font-size: 3,5em;
+color: #a5b4fc;
+font-family:  'Montserrat', sans-serif;;
+
+}
+
+
+
